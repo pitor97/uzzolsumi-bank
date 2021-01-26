@@ -1,0 +1,28 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    /* actulle color is (gray) but its my expriment so that i set it cyan  */
+    box-shadow: 5px 5px 10px cyan;
+}
+#transaction-area{
+    display: none;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdrow{
+    background-color: lightcoral;
+}
+.balance{
+    background-color: rgb(236, 159, 14);
+}
+.status{
+    margin: 0 2px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
